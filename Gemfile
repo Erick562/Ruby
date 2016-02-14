@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+gem 'activesupport'
+gem 'pry'
+gem 'sinatra'
+gem 'sinatra-reloader'
